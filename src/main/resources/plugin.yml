@@ -1,0 +1,4 @@
+name: YourLib
+version: '${project.version}'
+main: tech.wiktor.plugins.lib.LibPlugin
+api-version: 1.16
